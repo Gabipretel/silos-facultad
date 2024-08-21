@@ -1,4 +1,4 @@
 Integrantes : 
-Elias Oviedo
-Maria Jose Angulo
+Elias Oviedo,
+Maria Jose Angulo,
 Alan Gabriel Pretel
